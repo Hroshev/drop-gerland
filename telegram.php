@@ -14,8 +14,8 @@ if (empty($user_agent) || strpos($user_agent, 'bot') !== false) {
 }
 
 // Информация по токену и chat id
-$tg_bot_token = "6650105967:AAGnjqUb9U22q1-16q6SkruBj9zK67g6mKQ";
-$chat_id = "-4125606769";
+$tg_bot_token = "";
+$chat_id = "";
 
 $text = "✨ Нове замовлення ✨\n\n";
 
